@@ -17,3 +17,8 @@ This project analyzes student marks data using Python and generates insights.
 
 ## Author
 Teja Meragala
+
+
+## Visualization Output
+
+![Student Data Graph](graph.png)

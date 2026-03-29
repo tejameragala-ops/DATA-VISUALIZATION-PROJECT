@@ -28,5 +28,3 @@ plt.xlabel("Students")
 plt.ylabel("Marks")
 plt.show()
 
-# Save output
-df.to_csv("output.csv", index=False)
